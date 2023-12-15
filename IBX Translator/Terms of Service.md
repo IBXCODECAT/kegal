@@ -1,4 +1,4 @@
-# Terms of Service for Discord Bot
+# IBX Translator Terms of Service
 
 ## 1. Bot Usage
 Users are prohibited from engaging in any activity that may disrupt the functioning of the bot, or violate Discord's terms of service, or any applicable laws.
